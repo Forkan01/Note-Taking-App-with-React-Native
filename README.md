@@ -25,5 +25,12 @@ A simple and user-friendly React Native note-taking application with authenticat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/note-taking-app.git
-   cd note-taking-app
+   git clone https://github.com/Forkan01/Note-Taking-App-with-React-Native.git
+
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the development server:
+   ```bash
+   expo start
+
