@@ -4,8 +4,8 @@ import { StatusBar } from 'expo-status-bar';
 import { createClient } from '@supabase/supabase-js';
 
 // Superbase client configuration
-const supabaseUrl = 'https://itiyvielwymysiipvbxm.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml0aXl2aWVsd3lteXNpaXB2YnhtIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MTE1NDYyMiwiZXhwIjoyMDY2NzMwNjIyfQ.QNzdye2x2IK_R8zwh8yIyCmFLdFrCYzo0stDRDvg_1s';
+const supabaseUrl = 'https://it.......supabase.co';
+const supabaseKey = 'Your_key';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 // Authentication screen for sign-in & sigh-up
